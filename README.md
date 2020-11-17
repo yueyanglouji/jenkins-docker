@@ -1,6 +1,6 @@
 # jenkins-docker
 
-docker with
+jenkins with
 - ansible
 - nodejs
 - yarn
